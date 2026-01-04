@@ -11,7 +11,7 @@
 
 /* Element selectors */
 body {
-    background-color: whitesmoke;
+    background-color:#1e1e1e;
 }
 
 /* Links */
@@ -62,6 +62,8 @@ p {
     color: whitesmoke;
     line-height: 1.5rem;
     font-weight: 400;
+		line-height: 1.8;
+		word-spacing: 0.1em;
 }
 
 /* Class selectors */
