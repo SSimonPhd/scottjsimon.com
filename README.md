@@ -1,3 +1,3 @@
-# simonmusic
+#scottjsimon
 My music website
-https://simonmusic.me
+https://scottjsimon.com
