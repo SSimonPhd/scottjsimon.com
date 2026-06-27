@@ -1,3 +1,2 @@
-# simonmusic
 My music website
-https://simonmusic.me
+https://scottjsimon.com
